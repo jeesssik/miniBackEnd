@@ -41,3 +41,7 @@ app.listen(port, () => {
 // en postman
 
 //  http://localhost:3000
+
+// buscar por id
+
+http://localhost:3000/libros/1
